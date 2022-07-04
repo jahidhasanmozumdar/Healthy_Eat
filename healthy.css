@@ -1,0 +1,70 @@
+body{
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif; 
+    margin: 0;  
+}
+h1{
+    font-size: 80px;
+}
+.control_width{
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.head_color{
+   color: orange;
+}
+.Order_container{
+    display: flex;
+    margin-top: 6%;
+}
+.gray{
+    color: gray;
+}
+.img_size{
+    width: 850px;
+    height: auto;
+}
+.font_inc{
+    font-size: 1.5rem;
+}
+.btn_style{
+    color: rgb(4, 13, 15);
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+    background-image: linear-gradient(to bottom right, rgb(250, 2, 2), yellow);
+}
+.btn_style:hover{
+    box-shadow: 10px 6px 5px rgba(69, 69, 80, 0.774);
+}
+/* <!-- about section work --> */
+.about_container{
+    display: flex; 
+    background-image: url(Images/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+   margin-top: 6%;
+
+}
+h2{
+    font-size: 4rem;
+}
+.font_style{
+    font-size: 1.5rem;
+    text-align: justify;
+    padding-bottom: 60px;
+}
+.recipes_container{
+    text-align: center;
+}
+h3{
+    font-size: 3rem;
+}
+.font_style_2{
+    font-size: 2rem;
+    left: 1px;
+    color: rgba(59, 53, 53, 0.856);
+}
